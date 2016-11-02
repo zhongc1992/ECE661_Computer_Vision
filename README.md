@@ -1,6 +1,6 @@
 # ECE661
 Purdue ECE661:Computer Vision -- lab code
-This repository is a demonstration of ECE661 homework(or lab) code, the homework topics are listed as below:
+This repository is a demo of ECE661 homework(or lab) code, the homework topics are listed as following:
 
 Homework 2.
 This assignment deals with projective distortion in camera images and with estimating homographies between images.
