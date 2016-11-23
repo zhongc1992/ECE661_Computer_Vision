@@ -25,6 +25,6 @@ Homework 8.
 This homework implemented the Local Binary Pattern (LBP) algorithm.
 
 Homework 9.
-This homework implemented r Zhang’s camera calibration algorithm.
+This homework implemented Zhang’s camera calibration algorithm.
 
 
