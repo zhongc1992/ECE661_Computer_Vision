@@ -17,3 +17,14 @@ This homework deals with image mosaicing techinque to stitch several images toge
 
 Homework 6. 
 This homework deals with image segmentation. Algorithms used aer Otsu's algorithm and texture based segmentation.
+
+Homework 7.
+This homework is an demonstration of d Iterative Closest Point (ICP) algorithm on point cloud.
+
+Homework 8.
+This homework implemented the Local Binary Pattern (LBP) algorithm.
+
+Homework 9.
+This homework implemented r Zhang’s camera calibration algorithm.
+
+
